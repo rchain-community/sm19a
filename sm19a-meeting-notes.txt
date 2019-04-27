@@ -1,0 +1,56 @@
+Considering anRChain Special Meeting
+early DRAFT Apr 2019
+https://github.com/rchain-community/sm19a
+
+Form of petition?
+“Upon submission of a petition signed by 10% of the membership to call a special meeting ...” -- Bylaws
+We can count membership votes in discord, but…
+Votes for what?
+What is a simple but effective way to state a petition?
+
+Please share your thoughts!
+Make comments on this slide deck
+Chat in #governance
+Raise an issue in the sm19a github repo
+
+Chair: Dan Connolly?
+Decades of experience running effective meetings
+Ensure participants are heard
+Make good use of time
+Ensure good records with clear follow-up
+RChain community participant since Nov 2017
+Technical contribution
+Occasional rchain/rchain core commits: .rho code, scala code, .proto docs
+Object Capabilities, Formal Systems: Spring 2018 Dev conference presentation
+RChain-API JavaScript API
+Saturday office Hours
+Open to many outcomes
+Chair’s role is not to champion any one position
+Disclosure: contract/SOW: RChain Smart Contract and Software Development
+Jan 2019, continued from Apr 2018
+
+Proposed: to thank Barry, Mark, and Kevin
+“Upon submission of a petition signed by 10% of the membership to call a special meeting with one or more specific matters for a member vote, the RChain Board will schedule a special meeting of the membership at a commercially reasonable future date.”-- Bylaws section 3 Annual and Special Meetings
+Whereas Barry Cynamon, Mark Pui, and Kevin Goldstein served with distinction on the RChain Cooperative board, let us thank them for their service. 
+
+Logistics
+When? Where? 2-3 x 90min webinar sessions
+Day, time TBA with >= 7 days notice
+Venue: Zoom (+ discord for polling/voting)
+Goal: near-real-time note taking (e.g. google doc or this slide deck)
+Goal: separate sessions by a few days for “hallway discussion”
+Goal: vary times of day for world-wide participation
+What? Agenda chosen by the chair in this slide deck
+Formal proposals in writing >=48hrs before final session
+Reference materials frozen by cryptographic commitment (git hash, sha256, etc.)
+Who? RChain members
+Polls, votes conducted in member-only discord channel(s)
+Risk of listening by non-members is acknowledged; no enforcement planned
+Why? Will of the membership
+per bylaws of Oct 8, 2018
+recording only for reference by chair & scribes for correcting text records
+
+Refs
+Bylaws Oct 8 2017 
+Governing statute: RCW 23.86
+https://github.com/rchain-community/sm19a
