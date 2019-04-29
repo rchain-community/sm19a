@@ -8,7 +8,9 @@ _To endorse this proposal, see the [official version in the #governance channel 
 
 ## Agenda and Logistics
 
-for now, see brainstorming in the [meeting notes slides][meeting-notes-sm19a]
+Note [doodle poll for time slots](https://doodle.com/poll/s4hvhecneurenh3c ) as early as May 4, 6 (input to May 7 board meeting).
+
+for more, see brainstorming in the [meeting notes slides][meeting-notes-sm19a]
 
 ## Please share your thoughts!
 
