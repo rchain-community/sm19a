@@ -1,39 +1,164 @@
-Considering anRChain Special Meeting
-early DRAFT Apr 2019
+Proposal forRChain Special Meeting
+by dckc, in progress Apr-May 2019
 https://github.com/rchain-community/sm19a
+♫Welcome to the RChain Special Meeting♫
 
-Form of petition?
-“Upon submission of a petition signed by 10% of the membership to call a special meeting ...” -- Bylaws
-We can count membership votes in discord, but…
-Votes for what?
-What is a simple but effective way to state a petition?
+Records: Video, Text
+Note Zoom recording in progress
+Ask the chair (Dan) if you want the recording paused to speak off the record briefly
+Norm: public video recording
+On DivvyDAO: BYOID, RChain, DigLife Youtube channel
+Thanks to our host, Jim Whitescarver (jimscarver)
+Goal: near-real-time text notes
+Scribe volunteers?
+Shared notes
+Session notes shared doc
 
-Please share your thoughts!
-Make comments on this slide deck
-Chat in #governance
-Raise an issue in the sm19a github repo
+Proposed: to thank Barry, Mark, and Kevin
+“Upon submission of a petition signed by 10% of the membership to call a special meeting with one or more specific matters for a member vote, the RChain Board will schedule a special meeting of the membership at a commercially reasonable future date.”-- Bylaws section 3 Annual and Special Meetings
+Whereas Barry Cynamon, Mark Pui, and Kevin Goldstein served with distinction on the RChain Cooperative board, let us thank them for their service. 
 
-Chair: Dan Connolly?
-Decades of experience running effective meetings
+Timeline / Schedule
+Tue, Apr 23: Barry’s resignationWed, Apr 24: Mark’s resignation
+Fri, Apr 26: sm19a proposal in #governance at 23:52 UTC
+Mandate: 100+ votes >= 10% of membership
+Rough plan: 2-3 x 90min webinar sessionsseparated by a few days for “hallway discussion”
+Sat, Apr 27: ~20 join office hours (video recording, rough transcript)
+Membership:951 ID-Verified at last countper Ian Bloom Apr 24 in #governance
+
+Timeline / Schedule
+Fri, Apr 26: sm19a proposal in #governance at 23:52 UTC
+Idea: 2-3 x 90min webinar sessionsseparated by a few days for “hallway discussion”
+Sat, Apr 27: ~20 join office hours: video recording
+Wed, May 1: Member meeting 10am PST (before 11am debrief)
+Thu, May 2: Governance meeting
+governance landscape spreadsheet
+… raw video, chat
+Sat, May 4: Office hours 9am Kansas City time <- you are here
+See also RChain community calendar
+
+Timeline / Schedule
+Fri, Apr 26: sm19a proposal in #governance at 23:52 UTC
+Idea: 2-3 x 90min webinar sessionsseparated by a few days for “hallway discussion”
+Sat, Apr 27: ~20 join office hours: video recording
+Sat, May 4: Office hours 9am Kansas City time <- you are here
+Tue, May 7: Board meeting scheduled
+Mon May 6?
+Tue, May 14: LGM available to join 3:30 PST
+Note doodle poll for time slots from May 4 - 15
+See also RChain community calendar
+
+Goals and Items of Business
+It’s not clear that we can make any binding decisions in this meeting process, given constraints in the Bylaws
+For example, under Board Nominations; Election:  “Candidates interested in being nominated for election must submit their Director Qualification Statement Form to the RChain Cooperative at nom-cmte@gov.rchain.coop sixty (60) days in advance of a meeting of the members.”
+I aim to facilitate a discussion where people are heard.
+Clear proposals with backing from dozens of members (including offers to participate) should be enough to start useful things moving.
+Example: input to the board on new board members
+
+Chair/MC: Dan Connolly
+Decades of collaboration experience at W3C Running effective meetings:
 Ensure participants are heard
 Make good use of time
 Ensure good records with clear follow-up
 RChain community participant since Nov 2017
-Technical contribution
-Occasional rchain/rchain core commits: .rho code, scala code, .proto docs
-Object Capabilities, Formal Systems: Spring 2018 Dev conference presentation
+Capability Security, Correct-by-construction: Spring 2018 Dev conference presentation
+Occasional rchain/rchain core commits: rholang code, scala code, .proto docs
 RChain-API JavaScript API
+dreaming big at the RChain Governance Forum (blog item 2018-02-21)
 Saturday office Hours
 Open to many outcomes
 Chair’s role is not to champion any one position
 Disclosure: contract/SOW: RChain Smart Contract and Software Development
 Jan 2019, continued from Apr 2018
 
-Proposed: to thank Barry, Mark, and Kevin
-“Upon submission of a petition signed by 10% of the membership to call a special meeting with one or more specific matters for a member vote, the RChain Board will schedule a special meeting of the membership at a commercially reasonable future date.”-- Bylaws section 3 Annual and Special Meetings
-Whereas Barry Cynamon, Mark Pui, and Kevin Goldstein served with distinction on the RChain Cooperative board, let us thank them for their service. 
+Goals and Items of Business
+It’s not clear that we can make any binding decisions in this meeting process, given constraints in the Bylaws
+For example, under Board Nominations; Election:  “Candidates interested in being nominated for election must submit their Director Qualification Statement Form to the RChain Cooperative at nom-cmte@gov.rchain.coop sixty (60) days in advance of a meeting of the members.”
+I aim to facilitate a discussion where people are heard.
+Clear proposals with backing from dozens of members (including offers to participate) should be enough to start useful things moving.
+Watch the notes:
+If the scribe got it, we heard you already. No need to repeat yourself.
+If the scribe didn’t get it, many meeting participants probably didn’t either.
+Are you talking too fast?
+Are you rambling?
+Session notes shared doc
 
-Logistics
+Goals and Items of Business
+It’s not clear that we can make any binding decisions in this meeting process, given constraints in the Bylaws
+For example, under Board Nominations; Election:  “Candidates interested in being nominated for election must submit their Director Qualification Statement Form to the RChain Cooperative at nom-cmte@gov.rchain.coop sixty (60) days in advance of a meeting of the members.”
+I aim to facilitate a discussion where people hear each other.
+Clear proposals with backing from dozens of members (including offers to participate) should be enough to start useful things moving.
+♫ RChain blues♫
+Coop refinement
+Non-coop
+fizzle
+#members: I agree in general and appreciate your time. Unfortunately my biggest concern now is that based on past actions outside of the member's control (in the short to medium term at least) it became near impossible to responsibly put one's reputation on the line for this project.  That said just as maybe just maybe the project was growing past those previous actions, more ridiculousness follows and it puts at least me back at square one in terms of putting my reputation on the line for it.  That is the most annoying part of this entire project thus far for someone that believes in the project and the space as a whole.
+
+Goals and Items of Business
+It’s not clear that we can make any binding decisions in this meeting process, given constraints in the Bylaws
+For example, under Board Nominations; Election:  “Candidates interested in being nominated for election must submit their Director Qualification Statement Form to the RChain Cooperative at nom-cmte@gov.rchain.coop sixty (60) days in advance of a meeting of the members.”
+I aim to facilitate a discussion where people are heard.
+Clear proposals with backing from dozens of members (including offers to participate) should be enough to start useful things moving.
+sm19a issues list has some rough proposals
+Conduct polls, votes in member-only discord channel(s)
+help wanted
+
+IOB 4 Member Participation in Governance -> GP001
+
+IOB4 says "The RChain Cooperative board shall define some parameters ..." 
+Kenny was giving weekly updates...
+RCHAIN PROGRESS REPORT 01.23.19
+Kenny Rowe https://blog.rchain.coop/blog/2019/01/23/rchain-progress-update-01-23-19/
+
+IOB4 links to https://docs.google.com/document/d/1nBRLjw8tuQd05GIacIhrN2FwFPJInwaiLNwiW0nb-E4/edit which bears "RChain Governance Process: GP001"
+
+
+IOB 6 Technical Governance
+10:43 AM
+]
+kellyfoster:
+:
+...I encourage those how are to keep in mind the critical role the coop plays in governing the platform once mainnet launches. 
+https://github.com/rchain/legaldocs/blob/master/2018%20Annual%20Meeting/RChain%20Improvement%20Process%20(RIP%20Process).pdf was adopted as part of the vote of ballot measure #6 during the Oct 2018 annual meeting.
+
+Please share your thoughts!
+Chat in #members, #governance, etc.
+Endorse the proposal in the #governance channel at 23:52 UTC Fri Apr 26.
+Join @dckc’s weekly office hours
+Sat 1400UTC https://zoom.us/j/6853551826 
+Make comments on this slide deck
+Raise an issue in the sm19a github repo
+
+Appendix: RChain Cooperative Status
+Bylaws Oct 8 2017 (original pdf)
+Governing statute: RCW 23.86
+Board transparency report - decisions, votes thru Oct 27, 2018
+Oct 2018 annual meeting ballot form (cited from Debrief 99 blog item)
+Item #1 Financial Transparency
+Item #4: Member Participation in Governance
+Item #5: RChain Monetary Policy
+Item #6: RChain Improvement Process
+Membership: 951 ID-Verified (per Ian Bloom Apr 24)
+https://github.com/rchain-community/sm19a
+
+Appendix: RChain Coop Staff
+Greg M. - President
+Lilia R. - General Manager
+Ian B. - Administrative Director
+Bill S. - Head of Human Resources
+Kent S. - Software Developer
+Tim M. - Part Time Accounting Assistant
+Ned R. - Product Manager
+Source: Bill S., Apr 29
+
+Appendix: RChain Cooperative Officers
+Greg M. - President
+Ravi S. - COO
+Treasurer - currently vacant 
+Secretary - currently vacant 
+Source: Bill S., Apr 29
+
+Appendix: planning brainstorm
 When? Where? 2-3 x 90min webinar sessions
 Day, time TBA with >= 7 days notice
 Venue: Zoom (+ discord for polling/voting)
@@ -46,11 +171,6 @@ Reference materials frozen by cryptographic commitment (git hash, sha256, etc.)
 Who? RChain members
 Polls, votes conducted in member-only discord channel(s)
 Risk of listening by non-members is acknowledged; no enforcement planned
-Why? Will of the membership
+Why? expressed will of >= 10% of the membership
 per bylaws of Oct 8, 2018
-recording only for reference by chair & scribes for correcting text records
-
-Refs
-Bylaws Oct 8 2017 
-Governing statute: RCW 23.86
-https://github.com/rchain-community/sm19a
+Note doodle poll for time slots as early as May 4, 6
