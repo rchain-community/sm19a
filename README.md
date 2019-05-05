@@ -2,7 +2,7 @@
 
 Whereas Barry Cynamon, Mark Pui, and Kevin Goldstein served with distinction on the RChain Cooperative board, let us thank them for their service. I (@dckc) propose to chair an RChain Cooperative Special meeting with this and other matters I may add to the agenda in the coming week or two.
 
-_To endorse this proposal, see the [official version in the #governance channel at 23:52 UTC Fri Apr 26][652]._
+_The [proposal in the #governance channel at 23:52 UTC Fri Apr 26][652] received endorsement from over 100 members; i.e. 10% of the membership._
 
 [652]: https://discordapp.com/channels/375365542359465989/393462637100400650/571484475767128074
 
