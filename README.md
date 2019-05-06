@@ -16,7 +16,7 @@ _The [proposal in the #governance channel at 23:52 UTC Fri Apr 26][652] received
 
 See the [RChain Community Calendar][cal] for your timezone.
 
-[cal]: https://calendar.google.com/calendar/embed?src=2cj152c9nidh6glpr1d5g4eq28%40group.calendar.google.com&ctz=America%2FChicago
+[cal]: https://calendar.google.com/calendar/embed?src=2cj152c9nidh6glpr1d5g4eq28%40group.calendar.google.com
 
 ## Recent Sessions:
  - Sat May 4: [meeting notes slides][meeting-notes-sm19a], _video recording to appear_, [shared text notes](https://docs.google.com/document/d/13qSmFAnYNhjnJY9lt-YBX01CBn8WhmqCnagoDIq6jM0/edit#)
