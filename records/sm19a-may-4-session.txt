@@ -1,0 +1,107 @@
+﻿Context: sm19a github repo; Video: https://youtu.be/7_hdXksQ9I4
+Sm19a May 4 session notes
+Welcome, Timeline, Schedule
+#6 Vacant board seats
+Role of the board in day-to-day management
+Executive powers and the Barcelona deal
+Executive powers: sharing between President and Executive Committee
+Barcelona deal, IOB4, IOB5
+IOB4, GP001, and timely board records and financial records
+Getting to main net vs. RSong
+Thrust Terms, Key Man Clause
+Welcome, Timeline, Schedule
+Dan went over some meeting slides and then invited SRT to choose among a dozen or so issues in the sm19a repository.
+#6 Vacant board seats
+SRT: how about Nick?
+NM: would like to, but only if LGM changes his role
+Jim: Greg’s role is expected to change after mainnet. I nominate Rich.
+
+
+SRT: An Alternative is co-presidents
+
+
+Role of the board in day-to-day management
+
+
+NM: Before considering roles of board members, consider the role of the board. Expecting board members to do day-to-day management isn’t normal.
+
+
+Executive powers and the Barcelona deal
+
+
+SRT: Sorting things out is not the norm. The bylaws most of the power rest with President. For example, there was never a board vote on the Barcelona deal (cf #14). [... economize use of legal council]
+DC: there is now a dysfunction where the members expect the board members to do day-to-day management 
+
+
+NM: IOB 4 … GP001
+RJ: back to Barcelona… we have IOB 5 … regarding the treasury [... platform …]. I don’t believe LGM followed the process of IOB 5.
+
+
+Executive powers: sharing between President and Executive Committee
+JB: I suggest we construct an executive committee that takes over day-to-day business. Quarterly membership meetings. Doesn’t address Greg stepping aside. Give the board something to chew on.
+DC: We have an executive committee. Hasn’t met in some time. Greg and Ian are chairs, so didn’t help with executive bandwidth, decentralization. But we wouldn’t have to create it.
+JB: A baby-step towards decentralization. Grab some of the power away from the board.
+DC: Will you (JB) serve on the exec. Committee. Yes he’s interested.
+
+
+SRT: a word about quarterly membership meetings. They are essential. Huge need for regular gatherings. Annual meetings don’t suffice. Look at findhorn Foundation.
+
+
+NM: re John’s proposal: If it could be balanced with executive power. I would serve. It would require the balancing power.
+JW: A strong executive committee with a strong community
+NM: One guy with the keys is the way it’s written. The bylaws are a carbon copy of the REI bylaws.
+DC: posted a proposal in the #governance channel 9:46am KC time: to revise the RChain Executive committee to share executive powers with the President, noting interest from John B, @mutineering: in serving
+DC encouraged members to endorse the proposal, which would give board members (SRT, RS) mandate as input to future board meetings  (p.s. For follow-up, see #2)
+
+
+Barcelona deal, IOB4, IOB5
+
+
+NM: ...
+DC: Spirit of IOB4. Many are disappointed in the Barcelona outcome:
+Dror: IOB5 it states clearly that tokens are meant for public sale and if there is any kind of change, (someone) is to be consulted.
+RJ: … not sure of legal import, but ...
+SRT: what is meant by public token sale.
+Dror (with Jason’s proxy): it’s not the first time we’ve had issues with Greg promising to the Membership that he’d consult them but we only found out after the deal was done. RVP was the first one I was involved in. I’ve heard LGM say “every deal above $25K went through the board”. Now I hear people say the executive has the power to do whatever he chooses. I think if people knew that he had all power, people wouldn’t have gotten involved in RChain the way we have. A $5K coffee machine was voted by the board. For him to do a ~$400K deal without consulting us, I think he knew what he was doing.
+Ravi: it’s not the case that the board did not discuss the Barcelona deal. The token amount was “very” small; the $ amount was small. We didn’t vote, but we were aware that his trip was planned. The price was the same as the one offered to Thrust capital.
+Dror: I was an observer at some recent board meetings… I’m getting some mixed signals.
+SRT: I reviewed my mail and I find nothing about a meeting regarding the Barcelona deal. What wasn’t mentioned was any likelihood that a deal was going to get closed in Barcelona. It was a surprise to me that we didn’t get a term sheet. When I asked LGM about whether he had exceeded his authority, he said a careful reading of the bylaws does not require the President to get board approval. I asked him about IOB 5… and asked him about evolution of his role. He noted plans to step aside after mainnet, and I said I was interested in something sooner.
+DC: aside from the letter of IOB 5, there’s the spirit of IOB 4, which affects people’s willingness to participate in RChain
+Rich: I asked LGM whether the escrow agent was chosen by the counterparty? And he said of course not; then I asked if the escrow agent bears some liability. His non-response makes me question his basic business acumen. He needs to be contributing to an effective executive team, not making these decisions alone.
+
+
+IOB4, GP001, and timely board records and financial records
+
+NM: LGM rejected GP001; his position was that the existing bylaws suffice; I had support of other directors
+
+
+DC: perhaps https://github.com/rchain-community/sm19a/issues/11 timely board agendas and records would help
+Rich? Nick: and financial records (IOB #1)
+
+
+Rich: … positive point of inflection …
+Jim W: LGM said this was a private sale, not a public sale
+NM: “public sale” has a few different interpretations; IOB 5 wording could use some work, but intent is clear: membership expects to know in advance of deals.
+
+
+Bill S.: re Barcelona and IOB 5: the process I have in mind includes more open communication a report… executive committee would receive a report… that sort of formality could help with the “water cooler” discussion in discord etc. All of this reminds me of a need for structure and organization to be put in place. But my experience is that in this blockchain space there’s a lot of value put on anonymity and decentralization, which leads to push back on process and structure and such.
+
+
+Getting to main net vs. RSong
+
+
+Ravi: with urgency, as a member of the coop / community, I’d like the message from [??] to be: focus on mainnet and not get distracted by other things. For example RSong.
+Thrust Terms, Key Man Clause
+
+
+Rich: … I understand negotiation is underway with Thrust capital. I understand they operate a network, which could impact [positively?] the operation of the platform.
+Ravi: you’ll have access to the record of the board meeting shortly; none of the board were particularly pleased with the modus operandi of Thrust, but given that the runway was down to perhaps a month, the alternative seemed to be to close up shop; i.e. declare bankruptcy.
+Rich: some 60 days ago some board members advocated making plans in case of bankruptcy, so the urgency seems somewhat artificial. I don’t want to speculate, but one is somewhat forced to, given the limited information flow. I make these criticisms in hopes of a positive point of inflection.
+
+
+Rich: I heard from Greg there’s a “key man” clause
+Dror: Was there such a clause in the terms with Thrust?
+Ravi: no.
+Nick: Greg said in last Friday’s call that there is such a key-man clause. He also said he has support of [missed]
+Bill S: I ask that people exercise discretion until Ravi has a chance to double-check.
+Ravi: double-checking the terms: price, timing only.
