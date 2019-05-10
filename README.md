@@ -2,7 +2,8 @@
 
  - Upcoming sessions: **Sat May 11 9am CST**, **Tue May 14 3:30pm PST with LGM**
    - See the [RChain Community Calendar][cal] for your timezone.
-   - If you don't plan to attend, consider **giving your proxy** to someone who does.
+   - If you don't plan to attend, consider **giving your proxy** to someone who does:  
+     Write "I give my proxy to @dckc for all sm19a issues" or the like in a member channel such as [#governance][gov].
  - See [issue #2 on executive powers](/rchain-community/sm19a/issues/2) and the other [polling issues](https://github.com/rchain-community/sm19a/labels/polling) and give your reactions in discord.
  - See [help wanted](https://github.com/rchain-community/sm19a/labels/help%20wanted) and offer to participate!
 
@@ -21,8 +22,6 @@
  - Sat Apr 26: [video recording](https://youtu.be/x-YrKbdglnw), [rough transcript](https://otter.ai/s/e52287f0b3e949ebbbb3f0e696afd8de)
 
 
-
-
 ## Background
 
 Whereas Barry Cynamon, Mark Pui, and Kevin Goldstein served with distinction on the RChain Cooperative board, let us thank them for their service. I (@dckc) propose to chair an RChain Cooperative Special meeting with this and other matters I may add to the agenda in the coming week or two.
@@ -35,8 +34,9 @@ _The [proposal in the #governance channel at 23:52 UTC Fri Apr 26][652] received
 ## Please share your thoughts!
 
  - Raise an [issue in this sm19a github repo](https://github.com/rchain-community/sm19a/issues)
- - Chat in [#members](https://discordapp.com/channels/375365542359465989/406191011564617748), [#governance](https://discordapp.com/channels/375365542359465989/393462637100400650), etc.
+ - Chat in [#members][mem], [#governance][gov], etc.
  - Make comments on the [meeting notes slide deck][meeting-notes-sm19a]
 
-
+[gov]: https://discordapp.com/channels/375365542359465989/393462637100400650
+[mem]: https://discordapp.com/channels/375365542359465989/406191011564617748
 [meeting-notes-sm19a]: https://docs.google.com/presentation/d/1UqRpyxfp_SBAWj_MUIXwku0O_AE7sO2EHTL0B337qLA/edit?usp=sharing
