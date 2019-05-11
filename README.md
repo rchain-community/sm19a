@@ -4,7 +4,7 @@
    - See the [RChain Community Calendar][cal] for your timezone.
    - If you don't plan to attend, consider **giving your proxy** to someone who does:  
      Write "I give my proxy to @dckc for all sm19a issues" or the like in a member channel such as [#governance][gov].
- - See [issue #2 on executive powers](/rchain-community/sm19a/issues/2) and the other [polling issues](https://github.com/rchain-community/sm19a/labels/polling) and give your reactions in discord.
+ - See [issue #2 on executive powers](https://github.com/rchain-community/sm19a/issues/2) and the other [polling issues](https://github.com/rchain-community/sm19a/labels/polling) and give your reactions in discord.
  - See [help wanted](https://github.com/rchain-community/sm19a/labels/help%20wanted) and offer to participate!
 
 [cal]: https://calendar.google.com/calendar/embed?src=2cj152c9nidh6glpr1d5g4eq28%40group.calendar.google.com
