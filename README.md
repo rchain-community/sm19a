@@ -1,6 +1,6 @@
 # RChain Special Meeting Proposal 19A
 
- - Upcoming sessions: **Sat May 11 9am CST**, **Tue May 14 3:30pm PST with LGM**
+ - Upcoming sessions: **Sat May 11 9am CST**, **Tue May 14 3:30pm PDT (LGM out sick)**
    - See the [RChain Community Calendar][cal] for your timezone.
    - If you don't plan to attend, consider **giving your proxy** to someone who does:  
      Write "I give my proxy to @dckc for all sm19a issues" or the like in a member channel such as [#governance][gov].
